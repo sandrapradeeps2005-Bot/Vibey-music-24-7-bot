@@ -1,0 +1,17 @@
+{
+  "name": "vibey-music-bot",
+  "version": "1.0.0",
+  "description": "vibey 24/7 music bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "you",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.26.3",
+    "ffmpeg-static": "^5.3.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
